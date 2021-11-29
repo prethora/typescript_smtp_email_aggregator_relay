@@ -1,0 +1,33 @@
+outgoing:
+  host: smtp.mail.yahoo.com
+  port: 465
+  secure: true
+  auth:
+    user: domado16@yahoo.com
+    pass: beyzbcxqyyunhzlp
+
+incoming:
+  port: 5025
+
+aggregate:
+  subject: Consolidated Invoice and Statement for {name}
+  bodyFile: body.txt
+  waitForUpToMinutes: 5
+  checkExpiryEverySeconds: 10
+
+sendQueue:
+  threads: 3
+  pollIntervalSeconds: 5
+  failure:
+    retries: 5
+    pauseMinutes: 1
+
+logging:
+  combined:
+    on: true
+    file: logs/combined.log
+  errors:
+    on: true
+    file: logs/errors.log
+  debug:
+    file: logs/debug.log

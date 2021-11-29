@@ -1,0 +1,270 @@
+{
+  message: "unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: ENOENT: no such file or directory, stat '/home/mecrogenesis/Organizations/co.prethora/@typescript/smtp_email_aggregator_relay/data/queue/0b1b3b501c6296fffc8eea05173b336ee36ef982'",
+  level: 'error',
+  timestamp: '2021-11-28T09:00:46.809Z'
+}
+{
+  message: "unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: ENOENT: no such file or directory, stat '/home/mecrogenesis/Organizations/co.prethora/@typescript/smtp_email_aggregator_relay/data/queue/0b1b3b501c6296fffc8eea05173b336ee36ef982'",
+  level: 'error',
+  timestamp: '2021-11-28T09:00:47.442Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:47.446Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:47.450Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:47.454Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.557Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.560Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.564Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.567Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.570Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.572Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.760Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.764Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.770Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.774Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.777Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:00:50.782Z'
+}
+{
+  message: "unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: ENOENT: no such file or directory, open '/home/mecrogenesis/Organizations/co.prethora/@typescript/smtp_email_aggregator_relay/data/queue/0b1b3b501c6296fffc8eea05173b336ee36ef982/body'",
+  level: 'error',
+  timestamp: '2021-11-28T09:10:39.844Z'
+}
+{
+  message: "unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: ENOENT: no such file or directory, open '/home/mecrogenesis/Organizations/co.prethora/@typescript/smtp_email_aggregator_relay/data/queue/6f15cede2652b5d19b388457a1e8bf33a43a081f/body'",
+  level: 'error',
+  timestamp: '2021-11-28T09:10:39.901Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:16:04.911Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: 140441335797696:error:141A10F4:SSL routines:ossl_statem_client_read_transition:unexpected message:../deps/openssl/openssl/ssl/statem/statem_clnt.c:395:\n',
+  level: 'error',
+  timestamp: '2021-11-28T09:16:05.362Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:20:48.339Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:20:48.343Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:20:48.348Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:20:48.352Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:20:48.355Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: unexpected error: unable to parse rawmessage header',
+  level: 'error',
+  timestamp: '2021-11-28T09:20:49.447Z'
+}
+{
+  message: "unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: ENOENT: no such file or directory, open '/home/mecrogenesis/Organizations/co.prethora/@typescript/smtp_email_aggregator_relay/data/queue/0b1b3b501c6296fffc8eea05173b336ee36ef982/body'",
+  level: 'error',
+  timestamp: '2021-11-28T09:20:49.921Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T19:55:01.635Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T19:55:01.870Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T19:58:40.443Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T19:58:40.456Z'
+}
+{
+  message: 'unable to send message with id: aa0b55b96b90533433d2e63983953e73958c33dd; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T19:58:40.460Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T19:58:40.466Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T19:58:40.470Z'
+}
+{
+  message: 'unable to send message with id: aa0b55b96b90533433d2e63983953e73958c33dd; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T19:58:40.477Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:04:31.893Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:04:31.907Z'
+}
+{
+  message: 'unable to send message with id: aa0b55b96b90533433d2e63983953e73958c33dd; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:04:31.912Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:04:31.917Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:04:31.921Z'
+}
+{
+  message: 'unable to send message with id: aa0b55b96b90533433d2e63983953e73958c33dd; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:04:31.928Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:04:31.932Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:05:31.954Z'
+}
+{
+  message: 'unable to send message with id: aa0b55b96b90533433d2e63983953e73958c33dd; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:05:31.960Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:05:31.964Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:05:31.970Z'
+}
+{
+  message: 'unable to send message with id: aa0b55b96b90533433d2e63983953e73958c33dd; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:05:31.976Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:05:31.979Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:05:31.985Z'
+}
+{
+  message: 'unable to send message with id: aa0b55b96b90533433d2e63983953e73958c33dd; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:06:32.043Z'
+}
+{
+  message: 'unable to send message with id: 0b1b3b501c6296fffc8eea05173b336ee36ef982; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:06:32.047Z'
+}
+{
+  message: 'unable to send message with id: 6f15cede2652b5d19b388457a1e8bf33a43a081f; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:06:32.050Z'
+}
+{
+  message: 'unable to send message with id: aa0b55b96b90533433d2e63983953e73958c33dd; failed with message: simulated error thrown',
+  level: 'error',
+  timestamp: '2021-11-28T20:06:32.054Z'
+}

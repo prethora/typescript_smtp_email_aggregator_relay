@@ -1,0 +1,24 @@
+{
+  "files.exclude": {
+    ".vscode/": true,
+    ".gitignore": true,
+    ".npmignore": true,
+    "tsconfig.json": true,
+    "webpack.config.js": true,
+    "package-lock.json": true,
+    "dist": true,
+    "node_modules": true,
+    "dev-bin": true,
+    ".github": true,
+    "src/.setupEnzyme.ts": true,
+    "src/types.d.ts": true,
+    "jest.config.js": true,
+    "**/*.scss.d.ts": true,
+    ".npmrc": true,
+    "webpack/": true,
+    "Procfile": true,
+    "accounts": true,
+    "nodemon.json": true,
+    "**/*.js": true
+  }
+}

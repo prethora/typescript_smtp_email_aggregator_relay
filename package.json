@@ -1,0 +1,37 @@
+{
+  "name": "smtp_email_aggregator_relay",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "play": "ts-node ./src/play.ts",
+    "start:server": "ts-node ./src/server.ts",
+    "start:server:nodemon": "./node_modules/nodemon/bin/nodemon.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "@types/mailparser": "^3.4.0",
+    "@types/smtp-server": "^3.5.7",
+    "fs-extra": "^10.0.0",
+    "imap-server": "^0.0.1",
+    "mailparser": "^3.4.0",
+    "nodemailer": "^6.7.1",
+    "smtp-server": "^3.9.0",
+    "winston": "^3.3.3",
+    "yaml": "^1.10.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "nodemon": "^2.0.14",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
+}

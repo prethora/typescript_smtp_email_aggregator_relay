@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf queue
+cp -r queue__backup queue

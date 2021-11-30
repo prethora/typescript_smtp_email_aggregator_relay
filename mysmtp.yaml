@@ -1,0 +1,7 @@
+outgoing:
+  host: smtp.mail.yahoo.com
+  port: 465
+  secure: true
+  auth:
+    user: domado16@yahoo.com
+    pass: beyzbcxqyyunhzlp

@@ -12,7 +12,8 @@
     "start:server": "ts-node ./src/server.ts",
     "start:server:nodemon": "./node_modules/nodemon/bin/nodemon.js",
     "build": "tsc",
-    "test-relay": "node ./tests/relay.js"
+    "test-relay": "node ./tests/relay.js",
+    "tail-debug": "tail -f logs/debug.log"
   },
   "keywords": [],
   "author": "",

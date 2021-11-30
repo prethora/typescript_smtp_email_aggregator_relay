@@ -1,39 +1,39 @@
-outgoing:
-  host: smtp.mail.yahoo.com
+outgoing:                           # your postfix server
+  host: smtp.example.com
   port: 465
   secure: true
-  auth:
-    user: domado16@yahoo.com
-    pass: beyzbcxqyyunhzlp
+  auth:                             # remove these 3 lines if there is no authentication
+    user: someuser
+    pass: somepassword
 
-incoming:
-  host: 0.0.0.0
+incoming:                           # the host and port to listen on - point the CWA to send messages here.
+  host: 0.0.0.0                     # 0.0.0.0 just means catch all ips/interfaces that point to this device, so 127.0.0.1, localhost and the ip of the device on your LAN, for example.
   port: 5025
 
 aggregate:
-  subject: Consolidated Invoice and Statement for {name}
-  bodyFile: body.txt
-  waitForUpToMinutes: 5
-  checkExpiryEverySeconds: 10
+  subject: Consolidated Invoice and Statement for {name}          # the subject of the aggregated email, must contain the tag {name} 
+  bodyFile: body.txt                                              # the file to source the aggregated email text from, must also contain the tag {name}. Path is relative to the project root.
+  waitForUpToMinutes: 5                                           # the length of the waiting window in minutes, during which messages can be matched and aggregated, beyond this time, they are forwarded as they are.
+  checkExpiryEverySeconds: 10                                     # the number of seconds between each poll to check for messages that have fallen out of the waiting window, and are ready to be forwarded on.
 
 sendQueue:
-  threads: 3
-  pollIntervalSeconds: 5
+  threads: 3                                                      # the number of threads used in the send queue, no need to touch this.
+  pollIntervalSeconds: 5                                          # the number of seconds between each poll to check for new messages added to the queue (uses the file system to store messages).
   failure:
-    retries: 5
-    pauseMinutes: 1
+    retries: 5                                                    # how many times to retry sending a message if it fails.
+    pauseMinutes: 1                                               # how many minutes to pause the send queue if a message failed to be sent with all retries used up.
 
 logging:
-  combined:
+  combined:                                                       # if on, will log info and error messages to the configured file
     on: true
     file: logs/combined.log
-  errors:
+  errors:                                                         # if on, will log only error messages to the configured file
     on: true
     file: logs/errors.log
-  debug:
+  debug:                                                          # if on, will log debug messages to the configured file
     on: true
     file: logs/debug.log
 
-liveTestServer:
+liveTestServer:                     # the host and port for a live test server to listen on. Visit localhost:{port} in your browser, if it shows OK, then you know the server is running.
   host: 0.0.0.0
   port: 5050

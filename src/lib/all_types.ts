@@ -19,6 +19,7 @@ export interface TConfig
         };
     };
     incoming: {
+        host: string;
         port: number;
     };
     aggregate: {
@@ -45,8 +46,13 @@ export interface TConfig
             file: string;
         };
         debug: {
+            on: true;
             file: string;
         };
+    };
+    liveTestServer: {
+        host: string;
+        port: number;
     };
 }
 

@@ -7,5 +7,13 @@ export const rawmessagePath = resolve(packagePath,"rawmessage");
 export const dataPath = resolve(packagePath,"data");
 export const queuePath = resolve(dataPath,"queue");
 export const waitingPath = resolve(dataPath,"waiting");
-ensureDirSync(queuePath);
+try
+{
+    ensureDirSync(queuePath);
+}
+catch(err)
+{
+    console.log("error: unable to write to disk, make sure you have the right permissions");
+    process.exit(1);
+}
 ensureDirSync(waitingPath);

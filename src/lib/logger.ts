@@ -2,28 +2,36 @@ import { createLogger,transports,format, transport } from "winston";
 import * as Transport from 'winston-transport';
 const { combine,prettyPrint,timestamp } = format;
 import { config } from "./config";
-import { dirname } from "path";
+import { dirname,join } from "path";
 import { ensureDirSync } from "fs-extra";
+import { packagePath } from "./paths";
 
 const configTransports: Transport[] = [];
 const debugConfigTransports: Transport[] = [];
 
 if ((config.logging.combined.on) && (config.logging.combined.file))
 {
-    ensureDirSync(dirname(config.logging.combined.file));
-    configTransports.push(new transports.File({filename: config.logging.combined.file}));
+    const logFilePath = join(packagePath,config.logging.combined.file);
+    ensureDirSync(dirname(logFilePath));
+    configTransports.push(new transports.File({filename: logFilePath}));
 }
 
 if ((config.logging.errors.on) && (config.logging.errors.file))
 {
-    ensureDirSync(dirname(config.logging.errors.file));
-    configTransports.push(new transports.File({filename: config.logging.errors.file,level: "error"}));
+    const logFilePath = join(packagePath,config.logging.errors.file);
+    ensureDirSync(dirname(logFilePath));
+    configTransports.push(new transports.File({filename: logFilePath,level: "error"}));
 }
 
-if ((process.env.NODE_ENV!=="production") && (config.logging.debug.file))
+if ((config.logging.debug.on) && (config.logging.debug.file))
 {
-    ensureDirSync(dirname(config.logging.debug.file));
-    debugConfigTransports.push(new transports.File({filename: config.logging.debug.file}));
+    const logFilePath = join(packagePath,config.logging.debug.file);
+    ensureDirSync(dirname(logFilePath));
+    debugConfigTransports.push(new transports.File({filename: logFilePath}));
+}
+
+if (process.env.NODE_ENV!=="production")
+{
     debugConfigTransports.push(new transports.Console());
 }
 

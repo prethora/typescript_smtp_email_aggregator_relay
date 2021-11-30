@@ -4673,3 +4673,1431 @@
 {"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
 {"level":"info","message":"AGGREGATOR check complete"}
 {"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SERVER starting incoming server"}
+{"level":"info","message":"SERVER starting send queue"}
+{"level":"info","message":"SEND-QUEUE unblocking any previously blocked raw messages"}
+{"level":"info","message":"SERVER starting expiry checker"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"SEND-QUEUE starting queue with 3 threads"}
+{"level":"info","message":"SEND-QUEUE 0: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 0: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SERVER starting incoming server"}
+{"level":"info","message":"SERVER starting send queue"}
+{"level":"info","message":"SEND-QUEUE unblocking any previously blocked raw messages"}
+{"level":"info","message":"SERVER starting expiry checker"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"SEND-QUEUE starting queue with 3 threads"}
+{"level":"info","message":"SEND-QUEUE 0: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 0: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SERVER received and adding message with header: {\"from\":\"domado16@yahoo.com\",\"to\":\"dominique.adolphe@gmail.com\"}"}
+{"level":"info","message":"AGGREGATOR parsing message"}
+{"level":"info","message":"AGGREGATOR parsed successfully"}
+{"level":"info","message":"AGGREGATOR message has no type, forwarding to send queue"}
+{"level":"info","message":"SEND-QUEUE 0: polling found 1 jobs, blocking all"}
+{"level":"info","message":"SEND-QUEUE 0: clearing polling state"}
+{"level":"info","message":"SEND-QUEUE 0: clearing polling state: is actually polling"}
+{"level":"info","message":"SEND-QUEUE 0: clearing polling state: polling queue length: 3, restoring}"}
+{"level":"info","message":"SEND-QUEUE 0: job found directly"}
+{"level":"info","message":"SEND-QUEUE 1: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 1: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: thread got a job with id: a7872e2baadeac142c110961340cff4d2c68c4e9"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: thread job with id: a7872e2baadeac142c110961340cff4d2c68c4e9, parsed successfully"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: thread job with id: a7872e2baadeac142c110961340cff4d2c68c4e9, removed"}
+{"level":"info","message":"SEND-QUEUE 0: email sent to: dominique.adolphe@gmail.com"}
+{"level":"info","message":"SEND-QUEUE 0: clearing pause state"}
+{"level":"info","message":"SEND-QUEUE 0: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SERVER starting incoming server"}
+{"level":"info","message":"SERVER starting send queue"}
+{"level":"info","message":"SEND-QUEUE unblocking any previously blocked raw messages"}
+{"level":"info","message":"SERVER starting expiry checker"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"SEND-QUEUE starting queue with 3 threads"}
+{"level":"info","message":"SEND-QUEUE 0: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 0: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SERVER received and adding message with header: {\"from\":\"domado16@yahoo.com\",\"to\":\"dominique.adolphe@gmail.com\"}"}
+{"level":"info","message":"AGGREGATOR parsing message"}
+{"level":"info","message":"AGGREGATOR parsed successfully"}
+{"level":"info","message":"AGGREGATOR message has no type, forwarding to send queue"}
+{"level":"info","message":"SEND-QUEUE 0: polling found 1 jobs, blocking all"}
+{"level":"info","message":"SEND-QUEUE 0: clearing polling state"}
+{"level":"info","message":"SEND-QUEUE 0: clearing polling state: is actually polling"}
+{"level":"info","message":"SEND-QUEUE 0: clearing polling state: polling queue length: 3, restoring}"}
+{"level":"info","message":"SEND-QUEUE 0: job found directly"}
+{"level":"info","message":"SEND-QUEUE 1: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 1: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: thread got a job with id: 98f00c3af0307d4cc8c4c5ae59222c5381636ad0"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: thread job with id: 98f00c3af0307d4cc8c4c5ae59222c5381636ad0, parsed successfully"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: thread job with id: 98f00c3af0307d4cc8c4c5ae59222c5381636ad0, removed"}
+{"level":"info","message":"SEND-QUEUE 0: email sent to: dominique.adolphe@gmail.com"}
+{"level":"info","message":"SEND-QUEUE 0: clearing pause state"}
+{"level":"info","message":"SEND-QUEUE 0: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SERVER received and adding message with header: {\"from\":\"domado16@yahoo.com\",\"to\":\"dominique.adolphe@gmail.com\"}"}
+{"level":"info","message":"AGGREGATOR parsing message"}
+{"level":"info","message":"AGGREGATOR parsed successfully"}
+{"level":"info","message":"AGGREGATOR message type is 'statement', reverse type is 'invoice'"}
+{"level":"info","message":"AGGREGATOR message extracted name is 'The Good Food Shop'"}
+{"level":"info","message":"AGGREGATOR created/loaded waiting with key: 4900ddc728a2d54e282f1180b0d2c280c7a0bb00"}
+{"level":"info","message":"AGGREGATOR loaded existing potential matches: 0"}
+{"level":"info","message":"AGGREGATOR no matched found, stored message with key: 9e145fa4c515ef0628991f929f8d4ee228dd2f70"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 1: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SERVER received and adding message with header: {\"from\":\"domado16@yahoo.com\",\"to\":\"dominique.adolphe@gmail.com\"}"}
+{"level":"info","message":"AGGREGATOR parsing message"}
+{"level":"info","message":"AGGREGATOR parsed successfully"}
+{"level":"info","message":"AGGREGATOR message type is 'invoice', reverse type is 'statement'"}
+{"level":"info","message":"AGGREGATOR message extracted name is 'The Good Food Shop'"}
+{"level":"info","message":"AGGREGATOR created/loaded waiting with key: 4900ddc728a2d54e282f1180b0d2c280c7a0bb00"}
+{"level":"info","message":"AGGREGATOR loaded existing potential matches: 1"}
+{"level":"info","message":"AGGREGATOR match found, about to aggregate"}
+{"level":"info","message":"AGGREGATOR raw mail body composed"}
+{"level":"info","message":"AGGREGATOR forwarded to send queue and removed match with key: 9e145fa4c515ef0628991f929f8d4ee228dd2f70"}
+{"level":"info","message":"SEND-QUEUE 1: polling found 1 jobs, blocking all"}
+{"level":"info","message":"SEND-QUEUE 1: clearing polling state"}
+{"level":"info","message":"SEND-QUEUE 1: clearing polling state: is actually polling"}
+{"level":"info","message":"SEND-QUEUE 1: clearing polling state: polling queue length: 3, restoring}"}
+{"level":"info","message":"SEND-QUEUE 1: job found directly"}
+{"level":"info","message":"SEND-QUEUE 2: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 2: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 0: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 1: thread got a job with id: 058721052bd5e8722986da94db44e9d6285a2bfd"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: thread job with id: 058721052bd5e8722986da94db44e9d6285a2bfd, parsed successfully"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 1: thread job with id: 058721052bd5e8722986da94db44e9d6285a2bfd, removed"}
+{"level":"info","message":"SEND-QUEUE 1: email sent to: dominique.adolphe@gmail.com"}
+{"level":"info","message":"SEND-QUEUE 1: clearing pause state"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SERVER received and adding message with header: {\"from\":\"domado16@yahoo.com\",\"to\":\"prethora.co@gmail.com\"}"}
+{"level":"info","message":"AGGREGATOR parsing message"}
+{"level":"info","message":"AGGREGATOR parsed successfully"}
+{"level":"info","message":"AGGREGATOR message type is 'invoice', reverse type is 'statement'"}
+{"level":"info","message":"AGGREGATOR message extracted name is 'The Good Food Shop'"}
+{"level":"info","message":"AGGREGATOR created/loaded waiting with key: 16df2bd61cb7e7cbd9abb98a3832be515b3c1118"}
+{"level":"info","message":"AGGREGATOR loaded existing potential matches: 0"}
+{"level":"info","message":"AGGREGATOR no matched found, stored message with key: e91941e2298ef3a8122d810be15fc7dc6f667308"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 1"}
+{"level":"info","message":"AGGREGATOR client[0] message[0] has expired, forwarding and removing"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 2: polling found 1 jobs, blocking all"}
+{"level":"info","message":"SEND-QUEUE 2: clearing polling state"}
+{"level":"info","message":"SEND-QUEUE 2: clearing polling state: is actually polling"}
+{"level":"info","message":"SEND-QUEUE 2: clearing polling state: polling queue length: 3, restoring}"}
+{"level":"info","message":"SEND-QUEUE 2: job found directly"}
+{"level":"info","message":"SEND-QUEUE 0: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 0: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: thread got a job with id: 880bb707651d9ea0a0603508489f1e298593e4a2"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 2: thread job with id: 880bb707651d9ea0a0603508489f1e298593e4a2, parsed successfully"}
+{"level":"info","message":"SEND-QUEUE 2: thread job with id: 880bb707651d9ea0a0603508489f1e298593e4a2, removed"}
+{"level":"info","message":"SEND-QUEUE 2: email sent to: prethora.co@gmail.com"}
+{"level":"info","message":"SEND-QUEUE 2: clearing pause state"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SERVER starting incoming server"}
+{"level":"info","message":"SERVER starting send queue"}
+{"level":"info","message":"SEND-QUEUE unblocking any previously blocked raw messages"}
+{"level":"info","message":"SERVER starting expiry checker"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"SEND-QUEUE starting queue with 3 threads"}
+{"level":"info","message":"SEND-QUEUE 0: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 0: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SERVER starting incoming server"}
+{"level":"info","message":"SERVER starting send queue"}
+{"level":"info","message":"SEND-QUEUE unblocking any previously blocked raw messages"}
+{"level":"info","message":"SERVER starting expiry checker"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"SEND-QUEUE starting queue with 3 threads"}
+{"level":"info","message":"SEND-QUEUE 0: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 0: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 5"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SERVER starting incoming server"}
+{"level":"info","message":"SERVER starting send queue"}
+{"level":"info","message":"SEND-QUEUE unblocking any previously blocked raw messages"}
+{"level":"info","message":"SERVER starting expiry checker"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"SEND-QUEUE starting queue with 3 threads"}
+{"level":"info","message":"SEND-QUEUE 0: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 0: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SERVER starting incoming server"}
+{"level":"info","message":"SERVER starting send queue"}
+{"level":"info","message":"SEND-QUEUE unblocking any previously blocked raw messages"}
+{"level":"info","message":"SERVER starting expiry checker"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"SEND-QUEUE starting queue with 3 threads"}
+{"level":"info","message":"SEND-QUEUE 0: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 0: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SERVER starting incoming server"}
+{"level":"info","message":"SERVER starting send queue"}
+{"level":"info","message":"SEND-QUEUE unblocking any previously blocked raw messages"}
+{"level":"info","message":"SERVER starting expiry checker"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"SEND-QUEUE starting queue with 3 threads"}
+{"level":"info","message":"SEND-QUEUE 0: entering polling state"}
+{"level":"info","message":"SEND-QUEUE 0: adding main resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling"}
+{"level":"info","message":"SEND-QUEUE 1: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 2: is polling, adding resolve to polling queue"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"SEND-QUEUE 0: job not found, polling, waiting 5 seconds"}
+{"level":"info","message":"CHECKER adding check"}
+{"level":"info","message":"AGGREGATOR performing client check, found clients: 7"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[0]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[1]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[2]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[3]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[4]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[5]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR performing messages check, for client[6]: found messages: 0"}
+{"level":"info","message":"AGGREGATOR check complete"}
+{"level":"info","message":"CHECKER scheduling next check"}

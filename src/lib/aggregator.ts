@@ -117,16 +117,20 @@ class Aggregator
                         });
 
                         logger.debug(`AGGREGATOR raw mail body composed`);
+
+                        logger.info(`email of type '${type}' addressed to '${header.to}' with name '${name}': corresponding match found, aggregated and added to send queue`);
                 
                         await sendQueue.add(header,composer.compile().createReadStream());
-                        await match.remove();
+                        await match.remove();                        
 
                         logger.debug(`AGGREGATOR forwarded to send queue and removed match with key: ${match.key}`);
                     }
                     else
-                    {                            
+                    {                                                    
                         const message = await waiting.createMessage(type);
                         await writeFile(message.rawFilePath,rawbody);
+
+                        logger.info(`email of type '${type}' addressed to '${header.to}' with name '${name}': no corresponding match yet, saved`);
 
                         logger.debug(`AGGREGATOR no matched found, stored message with key: ${message.key}`);
                     }
@@ -140,6 +144,8 @@ class Aggregator
             }
             else
             {
+                logger.info(`email with no type, addressed to '${header.to}' with subject '${mail.subject}': forwarded on to send queue`);
+
                 logger.debug(`AGGREGATOR message has no type, forwarding to send queue`);
 
                 await sendQueue.add(header,rawbody);
@@ -166,7 +172,8 @@ class Aggregator
                 {
                     const message = messages[j];
                     if (message.hasExpired())
-                    {
+                    {                                                
+                        logger.info(`email of type '${message.type}' addressed to '${clients[i].to}' with name '${clients[i].name}': no match found during wait window, adding to send queue`);
 
                         logger.debug(`AGGREGATOR client[${i}] message[${j}] has expired, forwarding and removing`);
 

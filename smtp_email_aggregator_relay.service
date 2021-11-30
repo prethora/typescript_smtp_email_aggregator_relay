@@ -1,0 +1,14 @@
+[Unit]
+Description=SMTP Email Aggregator Relay
+
+[Service]
+ExecStart=/path/to/installation/bin/start.js
+Restart=always
+User=root
+Group=root
+Environment=PATH=/usr/bin:/usr/local/bin
+Environment=NODE_ENV=production
+WorkingDirectory=/path/to/installation
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,8 @@
+* add info logs
+* add subject and body sanity checks on startup
+* create relay test
+- add live test server
+- create daemon entry point and test
+- do a manual deployment
+- deliver
+

@@ -1,0 +1,23 @@
+#!/bin/bash
+
+CURRENT_SCRIPT_DIR_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+PROJECT_DIR_PATH="$(cd "$CURRENT_SCRIPT_DIR_PATH/.." && pwd)"
+cd "$PROJECT_DIR_PATH"
+
+TMP_DIR="$PROJECT_DIR_PATH/tmp"
+
+[[ -d "$TMP_DIR" ]] && rm -rf "$TMP_DIR"
+mkdir "$TMP_DIR"
+cp package.json "$TMP_DIR"
+cp package-lock.json "$TMP_DIR"
+cp config.yaml "$TMP_DIR"
+cp body.txt "$TMP_DIR"
+cp tsconfig.json "$TMP_DIR"
+cp smtp_email_aggregator_relay.service "$TMP_DIR"
+cp -r src "$TMP_DIR"
+cp -r tests "$TMP_DIR"
+cp -r bin "$TMP_DIR"
+ln -s "../node_modules" "$TMP_DIR/node_modules"
+cd "$TMP_DIR"
+npm run build
+find ./src -name '*.ts' -delete

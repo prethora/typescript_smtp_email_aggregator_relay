@@ -7,6 +7,7 @@ outgoing:
     pass: beyzbcxqyyunhzlp
 
 incoming:
+  host: 0.0.0.0
   port: 5025
 
 aggregate:
@@ -30,4 +31,9 @@ logging:
     on: true
     file: logs/errors.log
   debug:
+    on: true
     file: logs/debug.log
+
+liveTestServer:
+  host: 0.0.0.0
+  port: 5050

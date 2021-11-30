@@ -277,7 +277,7 @@ pre[data-line] .line-highlight[data-end]:after {
 <pre data-role="codeBlock" data-info="bash" class="language-bash"><span class="token function">npm</span> <span class="token function">install</span>
 </pre><h2 class="mume-header" id="configure">Configure</h2>
 
-<p>Using your favourite text editor, edit the <code>config.yaml</code> file (it is well documented in the in-file comments).</p>
+<p>Using your favourite text editor, edit the <code>config.yaml</code> file (it is well documented in the in-file comments). You mostly only need to edit the <code>outgoing</code> section to configure the postfix server, but check everything else just to make sure.</p>
 <h2 class="mume-header" id="run-relay-test">Run Relay Test</h2>
 
 <p>Run:</p>
@@ -285,7 +285,7 @@ pre[data-line] .line-highlight[data-end]:after {
 </pre><p>Once you see the <code>server listening</code> confirmation message, try sending a bogus email from the CWA to this running script. If it is received, you will see an INCOMING MESSAGE on the console with a breakdown of the message.</p>
 <p>The script will next try to forward the received message on to the configured postfix server. If it works, you will see a SUCCESS message, if it fails you will see an ERROR message and a reason for the failure. If it says SUCCESS, make sure the postfix server has indeed received it and the email shows up in your gmail sent folder.</p>
 <p>The script will keep running and receive/forward as many messages as you send it, just Ctrl+C to end it.</p>
-<p>If it all works out, the script is configured and ready. If you make any changed to the <code>config.yaml</code> while running the script, you have to of course end it and re-run for the changes to take effect.</p>
+<p>If it all works out, the script is configured and ready. If you make any changes to the <code>config.yaml</code> while running the script, you have to of course end it and re-run for the changes to take effect.</p>
 <h2 class="mume-header" id="setting-up-as-daemon">Setting up as daemon</h2>
 
 <p>I&apos;m assuming you&apos;re installing the script on linux and that the distro uses systemd. Quick check to make sure it does:</p>
@@ -317,16 +317,23 @@ pre[data-line] .line-highlight[data-end]:after {
 </pre><p>If the service has started successfully, the last two lines of the log should something look like (with the ports you have configured):</p>
 <pre data-role="codeBlock" data-info class="language-"><code>incoming smtp server listening on 0.0.0.0:5025
 live test server listening on 0.0.0.0:5050
-</code></pre><p>Hit Ctrl+C to exit this list.</p>
+</code></pre><p>Hit Ctrl+C to exit this log.</p>
 <p>Additionally, in the installation directory you can run:</p>
 <pre data-role="codeBlock" data-info="bash" class="language-bash"><span class="token function">npm</span> run tail-debug
 </pre><p>This should be moving continuously with debug messages, if the command ends with an error, or shows nothing, or is not moving, then the service is not running properly.</p>
 <p>And finally you can always open the live test server you configured in the <code>config.yaml</code> file in your browser. At a URL such as (with the port you configured):</p>
 <pre data-role="codeBlock" data-info class="language-"><code>http://localhost:5050
 </code></pre><p>If you see &quot;OK&quot; only on the page, then service is running.</p>
+<p>Finally, you can reboot the device and check again to make sure the service automatically starts on system boot.</p>
+<h2 class="mume-header" id="check-logs">Check Logs</h2>
+
+<ul>
+<li><code>logs/combined.log</code> - in this file you can see both info and error messages.</li>
+<li><code>logs/errors.log</code> - in this file you can see error messages only.</li>
+</ul>
 <h2 class="mume-header" id="conclusion">Conclusion</h2>
 
-<p>If all this works, the script is good to go - start running some real but bogus tests, with emails that you expect to be forwarded on, and emails that should be aggregated, as well aggregatable emails that are allowed to fall out of the waiting window - to see if they are forwarded as they are.</p>
+<p>If all this works, the script is good to go - start running some real but bogus tests, with emails that you expect to be forwarded on, and emails that should be aggregated, as well aggregatable emails that are allowed to fall out of the waiting window - to see if they are forwarded as they are. If it all works as expected, it is ready for production.</p>
 
       </div>
       

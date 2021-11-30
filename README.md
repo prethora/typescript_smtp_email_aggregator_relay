@@ -24,7 +24,7 @@ npm install
 
 ## Configure
 
-Using your favourite text editor, edit the `config.yaml` file (it is well documented in the in-file comments).
+Using your favourite text editor, edit the `config.yaml` file (it is well documented in the in-file comments). You mostly only need to edit the `outgoing` section to configure the postfix server, but check everything else just to make sure.
 
 ## Run Relay Test
 
@@ -40,7 +40,7 @@ The script will next try to forward the received message on to the configured po
 
 The script will keep running and receive/forward as many messages as you send it, just Ctrl+C to end it.
 
-If it all works out, the script is configured and ready. If you make any changed to the `config.yaml` while running the script, you have to of course end it and re-run for the changes to take effect.
+If it all works out, the script is configured and ready. If you make any changes to the `config.yaml` while running the script, you have to of course end it and re-run for the changes to take effect.
 
 ## Setting up as daemon
 
@@ -100,7 +100,7 @@ incoming smtp server listening on 0.0.0.0:5025
 live test server listening on 0.0.0.0:5050
 ```
 
-Hit Ctrl+C to exit this list.
+Hit Ctrl+C to exit this log.
 
 Additionally, in the installation directory you can run:
 
@@ -118,9 +118,16 @@ http://localhost:5050
 
 If you see "OK" only on the page, then service is running.
 
+Finally, you can reboot the device and check again to make sure the service automatically starts on system boot.
+
+## Check Logs
+
+* `logs/combined.log` - in this file you can see both info and error messages.
+* `logs/errors.log` - in this file you can see error messages only.
+
 ## Conclusion
 
-If all this works, the script is good to go - start running some real but bogus tests, with emails that you expect to be forwarded on, and emails that should be aggregated, as well aggregatable emails that are allowed to fall out of the waiting window - to see if they are forwarded as they are.
+If all this works, the script is good to go - start running some real but bogus tests, with emails that you expect to be forwarded on, and emails that should be aggregated, as well aggregatable emails that are allowed to fall out of the waiting window - to see if they are forwarded as they are. If it all works as expected, it is ready for production.
 
 
 
